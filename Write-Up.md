@@ -29,5 +29,3 @@ Tools
 Communication
 
 [Presentation slide deck](https://github.com/tesung/EDA-Project/blob/main/PresentationSlideDeck.pdf)
-
-
